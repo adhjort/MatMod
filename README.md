@@ -1,2 +1,3 @@
 # MatMod
-TMA4195 Mathematical Modelling 
+Here is a gif: 
+![](glacier.gif)
