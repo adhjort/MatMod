@@ -1,5 +1,5 @@
 # MatMod
-Here is a gif: 
+Simulation #1: 
 ![](glacier.gif)
-Here is another one: 
+Simulation #2: 
 ![](glacier2.gif)
